@@ -8,4 +8,6 @@ _Keywords:_  prior specification, shrinkage priors, variance decomposition, regu
 
 _Citation:_ 
 
+_Funding:_ 
+
 _Contact_ javier.aguilarr at icloud.com
