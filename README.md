@@ -6,8 +6,23 @@ _Abstract:_  We introduce the Group-R2 decomposition prior, a hierarchical shrin
 
 _Keywords:_  prior specification, shrinkage priors, variance decomposition, regularization
 
-_Citation:_ 
-
-_Funding:_ 
+_Citation:_ Aguilar, J.E, Bürkner, P. C. (2025). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. arXiv preprint.
 
 _Contact_ javier.aguilarr at icloud.com
+
+_Funding:_ Funded by Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) Project
+500663361. Javier Enrique Aguilar and Paul-Christian B¨urkner acknowledge the computing
+time provided on the Linux HPC cluster at Technical University Dortmund (LiDO3), partially
+funded in the course of the Large-Scale Equipment Initiative by DFG Project 271512359. Paul-
+Christian B¨urkner further acknowledges support of the Deutsche Forschungsgemeinschaft (DFG,
+German Research Foundation) via the Collaborative Research Center 391 (Spatio-Temporal
+Statistics for the Transition of Energy and Transport) – 520388526. Javier Enrique Aguilar
+further acknowledges travel support from the European Union’s Horizon 2020 research and
+innovation programme under grant agreement No 951847. Javier Aguilar also acknowledges
+the support of F.c. and F.L for their contribution to the elaboration of this manuscript. David
+Kohns acknowledges the computational resources provided by the Aalto Science-IT project,
+and the support of the Research Council of Finland Flagship programme: Finnish Center for
+Artificial Intelligence, Research Council of Finland project (340721), and the Finnish Foundation
+for Technology Promotion.
+
+
