@@ -11,7 +11,7 @@ _Keywords:_  prior specification, shrinkage priors, variance decomposition, regu
 
 _Citation:_ Aguilar, J.E, Bürkner, P. C. (2025). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. arXiv preprint.
 
-_Contact_ javier.aguilarr at icloud.com
+_Contact_: javier.aguilarr at icloud.com
 
 _Funding:_ Funded by Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) Project
 500663361. Javier Enrique Aguilar and Paul-Christian B¨urkner acknowledge the computing
