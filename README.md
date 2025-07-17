@@ -1,7 +1,7 @@
 # R2 priors for Grouped Variance Decomposition in High-dimensional Regression
 
 __How to use this repo?__
-The main point of this repository is that you can reproduce the plots in the main paper. To do this it is sufficient to open the file `GroupR2priors.Rproj` and run the script `scripts/sim_group/plot_results_sims.R`. 
+The main point of this repository is that you can reproduce the plots in the main paper. To do this it is sufficient to open the R Project `GroupR2priors.Rproj` and run the script `scripts/sim_group/plot_results_sims.R`. 
 
 __Information__
 
