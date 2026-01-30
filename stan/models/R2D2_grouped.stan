@@ -84,7 +84,7 @@ transformed data {
   matrix[N, pc] Xc; // centered version of X without an intercept
   vector[pc] means_X; // column means of X before centering
   vector[pc] sds_X; // sds of X before centering
-  vector[pc] inv_sds_X = 1.0 ./ sds_X;
+  vector[pc] inv_sds_X;
   vector[N] yc;
   real ymean;
   
@@ -95,6 +95,8 @@ transformed data {
     Xc[ : , i - 1] = X[ : , i] - means_X[i - 1];
   }
   
+ inv_sds_X = 1.0 ./ sds_X;
+
   ymean = mean(y);
   for (i in 1 : N) {
     yc[i] = y[i] - ymean;
